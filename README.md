@@ -45,3 +45,6 @@ Bu proje, 2024 Stack Overflow Geliştirici Anketi verilerini (N=20.754) kullanar
 - **Maaş Belirleyicileri**: Profesyonel deneyim ve resmi eğitim, gelirin en güçlü belirleyicileri olmaya devam etmektedir. Üniversite diploması ortalama 13.640$ artışla ilişkilendirilirken, her bir yıllık deneyim yaklaşık 2.498$ eklemektedir.
 - **YZ Paradoksu**: Başlangıçta YZ kullanmayanların daha fazla kazandığı görülse de, regresyon analizi bunun kıdemden kaynaklanan bir yanılsama olduğunu kanıtlamıştır. Deneyim kontrol edildiğinde, YZ kullanımının maaş üzerindeki etkisi istatistiksel olarak anlamsızdır (p = 0,587).
 - **Uzaktan Çalışma Avantajı**: Tamamen uzaktan çalışan geliştiriciler, hibrit rollere kıyasla ortalama 11.120$ daha fazla kazanırken, ofis bazlı rollerde çalışanlar anlamlı ölçüde daha az kazanmaktadır.
+
+
+### Author/Yazar : Melih Tuğrul Erdoğdu
