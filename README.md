@@ -25,7 +25,7 @@ This project goes beyond simple bar charts. We transitioned from observational t
 * 🤖 **The "AI Salary Paradox":** Here is where the data gets fascinating. Initially, a simple T-Test suggested that developers *not* using AI earned more. However, our regression analysis proved this was a statistical illusion caused by seniority—senior developers earn more overall but are adopting AI at a slower rate. Once we control for experience, the effect of AI usage on salary becomes completely insignificant (**p = 0.587**). Simply put: AI doesn't pay more; experience does.
 * 🏠 **The Remote Work Premium:** Working from home pays off. Fully remote developers enjoy an average salary premium of **$11,120** over hybrid roles, while strict in-person positions take a noticeable financial hit.
 
-📄 **Project Report:** [Stack Overflow Survey Analysis Report (PDF)](StackOverflow_Survey_Analysis_Report.pdf)
+📄 **Project Report:** [Stack Overflow Survey Analysis Report (PDF)](StackOverflow_Survey_Analysis_Report.pdf) If you receive the "Unable to render code block" error, please click the "Download raw file" button.
 
 ---
 
@@ -56,7 +56,7 @@ Bu proje sadece basit grafiklerden ibaret değil. Gözlemsel trendlerden istatis
 * 🤖 **"Yapay Zeka Maaş Paradoksu":** Verilerin en büyüleyici olduğu nokta burası. Başlangıçta yaptığımız basit bir T-Testi, YZ *kullanmayan* geliştiricilerin daha fazla kazandığını gösterdi. Ancak regresyon analizimiz, bunun kıdemden kaynaklanan istatistiksel bir yanılsama olduğunu kanıtladı; çünkü sektörde zaten çok kazanan kıdemli geliştiriciler, YZ'yi gençlere göre daha yavaş benimsiyordu. Deneyim faktörünü kontrol altına aldığımızda, YZ kullanımının maaş üzerindeki etkisi tamamen anlamsızlaştı (**p = 0,587**). Kısacası: Size daha fazla parayı YZ değil, deneyiminiz kazandırıyor.
 * 🏠 **Uzaktan Çalışma Avantajı:** Evden çalışmanın net bir finansal karşılığı var. Tamamen uzaktan (remote) çalışan geliştiriciler, hibrit rollere kıyasla ortalama **11.120$** daha fazla kazanırken, ofise gitme zorunluluğu olan roller belirgin bir finansal kayıp yaşıyor.
 
-📄 **Proje Raporu:** [Stack Overflow Survey Analysis Report (PDF)](StackOverflow_Survey_Analysis_Report.pdf)
+📄 **Proje Raporu:** [Stack Overflow Survey Analysis Report (PDF)](StackOverflow_Survey_Analysis_Report.pdf) Eğer "Unable to render code block" hatası alırsanız lütfen "Download raw file" butonuna tıklayınız.
 
 
 
